@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News App (Sanchit - Udacity)</string>
+    <string name="nonews">No News To Show!</string>
+    <string name="nolinkfound">No Link Found</string>
+    <string name="nointernet">No Internet!</string>
+    <string name="url"><![CDATA[http://content.guardianapis.com/search?q=debate&tag=politics/politics&from&#8211date=2017&#821101&#821101&api&#8211key=test&page&#8211size=20&show&#8211tags=contributor]]></string>
+</resources>
